@@ -38,7 +38,7 @@ export default function AddTask({ onAdd }) {
     <form
       onSubmit={submit}
       className="flex gap-4 items-center bg-black/6 p-4 rounded-lg mb-6"
-    >
+    > 
       <input
         className="flex-1 rounded-lg px-4 py-3 focus:outline-none"
         placeholder="What needs to be done?"
